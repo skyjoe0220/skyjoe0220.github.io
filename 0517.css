@@ -1,0 +1,9 @@
+body{background-color: #cccccc;}
+#title-1{text-decoration: line-through;}
+.title{
+     color:red;
+    font-size: 30px;
+    font-weight:bold ;
+}
+.content{color:blue}
+.keyword{color:red}
